@@ -27,8 +27,8 @@ Set Permissions for IAM User
 Review and Create IAM User
 ## COMMANDS
 Include the commands used in the Experiment.
-### REG NUMBER:212223220012
-### NAME:BAKKIYALAKSHMI E
+### REG NUMBER:212222110017
+### NAME:KARNA S
 OUTPUT:
 ![Screenshot 2024-11-18 180354](https://github.com/user-attachments/assets/026bb1b3-9630-4f13-88c4-0f5e705730bf)
 ![Screenshot 2024-11-18 180402](https://github.com/user-attachments/assets/801f6916-f3f2-4e47-8e89-523756459b7e)
